@@ -78,5 +78,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. Candidate in Marketing at Cornell University Johnson Graduate School of Management. Inspired by one of my favoriate books, "The Person and the Situation," my research can be categorized into two streams. First, on "the person,"; Second, on "the situation".
 {style="text-align: justify;"}
