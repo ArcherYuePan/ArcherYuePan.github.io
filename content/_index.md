@@ -43,7 +43,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
    - block: collection
-    content:
+     id: Publications
+     content:
       title: Publications
       filters:
         folders:
@@ -79,17 +80,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     id: talks
     content:
