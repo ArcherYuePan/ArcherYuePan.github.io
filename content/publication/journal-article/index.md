@@ -30,6 +30,3 @@ featured: false
 url_pdf: https://psycnet.apa.org/record/2023-58666-001
 url_code: 
 ---
-
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
