@@ -1,6 +1,5 @@
 ---
-authors:
-1.
+authors:1.
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
