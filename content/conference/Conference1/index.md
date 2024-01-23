@@ -5,8 +5,7 @@ authors:
 - Jean-Louis Sterckx
 - Bart De Langhe
 - Stijn van Osselaer
-date: "2023-09-01T00:00:00Z"
-location: "2023 The Association for Consumer Research Annual Conference, Seattle, WA"
+date: "2023-09-01T00:00:00Z, 2023 The Association for Consumer Research Annual Conference, Seattle, WA"
 doi: "https://www.acrwebsite.org/web/conferences/north-american-conference"
 
 # Publication type.
