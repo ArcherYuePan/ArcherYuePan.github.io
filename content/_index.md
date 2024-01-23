@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Recent Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -54,9 +54,31 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: posts
+    id: working
     content:
-      title: Recent Posts
+      title: Working papers
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: ongoing
+    content:
+      title: Ongoing projects
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: conference
+    content:
+      title: Conference presentations
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
