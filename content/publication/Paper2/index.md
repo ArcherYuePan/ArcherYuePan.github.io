@@ -1,82 +1,32 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Foreign language reduces false memories"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+- Leigh Grant
+- admin
+- Huang Yi
+- David Gallo
+- Boaz Keysar
+date: "2023-09-01T00:00:00Z"
+doi: "https://doi.org/10.1037/xge0001378"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: "*Journal of Experimental Psychology: General*"
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: People have false memories that distort their recollection of past events. Language is an important source of such memories, from providing false inferences to outright misinformation. Here we investigate the impact of using a native or foreign language on bilinguals’ susceptibility to false memories. Although language has been argued to impact false memories in multiple ways, our study was inspired by recent work in the decision-making literature, which leads to the novel hypothesis that foreign language encourages people to engage in careful memory monitoring that could reduce false memories. This hypothesis contrasts with a processing load account, which predicts that a foreign language would increase false memories because it is naturally more difficult to process information in a foreign language. We tested these hypotheses using two false memory tasks. Using the DRM task, Experiment 1 found that individuals were more accurate in identifying false memories when using their foreign language compared with their native tongue, consistent with the memory monitoring hypothesis. Using the misinformation task, Experiment 2 found that processing misleading information in one's foreign language eliminated false memories, again supporting the hypothesis that a foreign language increases the use of memory monitoring. These findings support a monitoring hypothesis that has been overlooked in prior studies on bilingualism and false memory, with implications for billions of people who regularly use a foreign language.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+tags:
+- Source Themes
+featured: false
 
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+# - name: ""
+#   url: ""
+url_pdf: https://psycnet.apa.org/record/2023-58666-001
+url_code: 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

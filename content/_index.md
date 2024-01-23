@@ -48,8 +48,9 @@ sections:
       title: Publications
       filters:
         folders:
-          - publication
-        exclude_featured: true
+          - Paper1
+          - Paper2
+        
     design:
       columns: '2'
       view: citation
