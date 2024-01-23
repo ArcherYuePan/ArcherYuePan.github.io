@@ -85,7 +85,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: list
   - block: contact
     id: contact
     content:
