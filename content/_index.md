@@ -57,13 +57,8 @@ sections:
     id: working
     content:
       title: Working papers
-      filters:
-        folders:
-          - working-papers
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: collection
     id: ongoing
     content:
