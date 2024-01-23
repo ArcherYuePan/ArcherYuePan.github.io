@@ -7,7 +7,6 @@ authors:
 - David Gallo
 - Boaz Keysar
 date: "2023-09-01T00:00:00Z"
-doi: "https://doi.org/10.1037/xge0001378"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
