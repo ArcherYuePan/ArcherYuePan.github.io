@@ -81,7 +81,7 @@ sections:
       title: Conference presentations
       filters:
         folders:
-          - publication
+          - conference
         exclude_featured: true
     design:
       columns: '2'
