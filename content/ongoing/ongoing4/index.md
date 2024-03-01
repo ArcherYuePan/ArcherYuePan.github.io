@@ -1,9 +1,10 @@
 ---
-title: "Rethinking Consumption Happiness: A New Framework to Study Consumer Well-being"
+title: "The Impact of Using a Non-native Language on Prosocial Decisions"
 authors:
+- Marie Ozanne
+- Xinlian Zhang
 - admin
-- Gülden Ülkümen
-- Manoj Thomas
+- Kaitlin Woolley
 
 date: "2024-09-01T00:00:00Z"
 

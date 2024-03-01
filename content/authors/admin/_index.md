@@ -70,4 +70,3 @@ highlight_name: true
 ---
 
 Inspired by one of my favorite books, "The Person and the Situation," my research can be categorized into two streams. First, on "the person," I am interested in understanding how individual characteristics, such as political ideology, culture, and moral values, shape consumer behaviors. Second, on "the situation", I am interested in investigating how the presentation of numerical information impacts marketing decision-making, as well as how linguistic contexts influence consumer decisions. Between "the person" and the "situation," I am also keen to explore the effect of consumption on consumer well-being.
-{style="text-align: justify;"}
