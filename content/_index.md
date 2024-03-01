@@ -57,19 +57,18 @@ sections:
   - block: collection
     id: working
     content:
-      title: Working papers
+      title: Selective work in progress
       filters:
         folders:
           - working
         exclude_featured: true
     design:
       columns: '2'
-      rows: '4'
       view: citation
   - block: collection
     id: ongoing
     content:
-      title: Ongoing projects
+      title: Working Papers
       filters:
         folders:
           - ongoing
