@@ -70,7 +70,7 @@ sections:
       title: Ongoing projects
       filters:
         folders:
-          - publication
+          - ongoing
         exclude_featured: true
     design:
       columns: '2'
