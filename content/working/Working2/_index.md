@@ -1,5 +1,5 @@
 ---
-title: "Market Transactions through a Political Lens: Does Political Ideology Predict Price Negotiation"
+title: "Market Transactions through a Political Lens: Does Political Ideology Predict Price Negotiation?"
 authors:
 - admin
 - Manoj Thomas
