@@ -22,7 +22,7 @@ organizations:
     url: https://www.johnson.cornell.edu/programs/phd-program/current-students/yp388/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inspired by one of my favorite books, "The Person and the Situation," my research can be categorized into two streams. First, on "the person," I am interested in understanding how individual characteristics, such as political ideology, culture, and moral values, shape consumer behaviors. Second, on "the situation", I am interested in investigating how the presentation of numerical information impacts marketing decision-making, as well as how linguistic contexts influence consumer decisions. Between "the person" and the "situation," I am also keen to explore the effect of consumption on consumer well-being.
+bio: 
 
 # Interests to show in About widget
 interests:
