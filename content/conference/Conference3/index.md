@@ -1,12 +1,11 @@
 ---
-title: "The Impact of Efficiency Ratios on Marketing Decision-Making"
+title: "Political Ideology and Negotiation: Does Political Ideology Affect Negotiation?"
 authors:
 - admin
-- Jean-Louis Sterckx
-- Bart De Langhe
-- Stijn van Osselaer
-- at ACR 2023, Seattle
-date: "2023-10-27T00:00:00Z"
+- Manoj Thomas
+- at SJDM 2022 San Diego
+
+date: "2022-11-20T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -15,7 +14,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Association of Consumer Research 2023*"
+publication: "*SJDM 2022*"
 publication_short: ""
 
 

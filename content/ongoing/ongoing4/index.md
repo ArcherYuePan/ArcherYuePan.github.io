@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Efficiency Ratios on Marketing Decision-Making"
+title: "The Impact of Using a Non-native Language on Prosocial Decisions"
 authors:
 - Marie Ozanne
 - Xinlian Zhang
