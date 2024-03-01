@@ -1,10 +1,11 @@
 ---
 title: "The Impact of Efficiency Ratios on Marketing Decision-Making"
 authors:
+- Marie Ozanne
+- Xinlian Zhang
 - admin
-- Jean-Louis Sterckx
-- Bart De Langhe
-- Stijn van Osselaer
+- Kaitlin Woolley
+
 
 date: "2024-02-26T00:00:00Z"
 doi: ""

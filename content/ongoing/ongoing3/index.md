@@ -1,10 +1,9 @@
 ---
-title: "The Impact of Efficiency Ratios on Marketing Decision-Making"
+title: "A New Framework of Investigating the Effect of Consumption on Consumer Well-being"
 authors:
 - admin
-- Jean-Louis Sterckx
-- Bart De Langhe
-- Stijn van Osselaer
+- Gulden Ulkumen
+- Manoj Thomas
 
 date: "2024-02-26T00:00:00Z"
 doi: ""
