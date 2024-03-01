@@ -52,7 +52,6 @@ sections:
         exclude_featured: true   
     design:
       columns: '2'
-      rows: '4'
       view: citation
   - block: collection
     id: ongoing
@@ -61,17 +60,6 @@ sections:
       filters:
         folders:
           - ongoing
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-   - block: collection
-    id: working
-    content:
-      title: Selective work in progress
-      filters:
-        folders:
-          - working
         exclude_featured: true
     design:
       columns: '2'
