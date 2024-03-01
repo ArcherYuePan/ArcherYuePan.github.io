@@ -52,6 +52,7 @@ sections:
         exclude_featured: true   
     design:
       columns: '2'
+      rows: '4'
       view: citation
   - block: collection
     id: working
@@ -62,7 +63,7 @@ sections:
           - working
         exclude_featured: true
     design:
-      columns: '4'
+      columns: '2'
       view: citation
   - block: collection
     id: ongoing
