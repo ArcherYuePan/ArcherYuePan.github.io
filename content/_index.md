@@ -64,6 +64,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
+      rows: '4'
       view: citation
   - block: collection
     id: ongoing
