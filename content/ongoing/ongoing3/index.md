@@ -1,12 +1,10 @@
 ---
-title: "Foreign language reduces false memories by increasing memory monitoring"
-authors:
-- Leigh Grant
+title: "A New Framework Investigating the Impact of Consumption on Consumer Well-being
 - admin
-- Huang Yi
-- David Gallo
-- Boaz Keysar
-date: "2023-09-01T00:00:00Z"
+- Gülden Ülkümen
+- Manoj Thomas
+
+date: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
