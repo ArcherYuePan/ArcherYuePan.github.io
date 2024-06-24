@@ -26,10 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Numerical Cognition
-  - Individual Differences
-  - Consumer Wellbeing
-  - Language and Linguistic Contextual Effects
+  - Individual characteristics in consumer decision-making
+  - Technology (AI) adoption; numerical cognition in the digital era
+  - Consumer well-being and societal sustainability
     
 # Education to show in About widget
 education:
@@ -37,10 +36,10 @@ education:
     - course: PhD in Behavioral Marketing
       institution: Cornell University
       year: 2020 - Present
-    - course: MA in Social Sciences
+    - course: Master of Arts in Social Sciences
       institution: The University of Chicago
       year: 2017
-    - course: BA in Psychology
+    - course: Bachelor of Science in Psychology
       institution: University of Illinois at Urbana-Champaign
       year: 2016
       
@@ -69,4 +68,6 @@ social:
 highlight_name: true
 ---
 
-Inspired by one of my favorite books, "The Person and the Situation," my research can be categorized into two streams. First, on "the person," I am interested in understanding how individual characteristics, such as political ideology, culture, and moral values, shape consumer behaviors. Second, on "the situation", I am interested in investigating how the presentation of numerical information impacts marketing decision-making, as well as how linguistic contexts influence consumer decisions. Between "the person" and the "situation," I am also keen to explore the effect of consumption on consumer well-being.
+From an early age, my extensive reading of history books ignited a profound interest in psychology. The diverse ways people think and act across different cultures and societies throughout history fascinated me. The stories of heroes and villains further fueled my curiosity about the interplay between individuals and society. Viewing consumption as a lifelong behavior, I recognize it as a crucial lens through which to understand individual differences and the dynamic relationship between people and society.
+
+My research explores how individual characteristics shape consumer behavrios, including how cultural orientations influence individuals' adoption of artificial intelligence products and services, and how political ideologies shape tendencies in price negotiations. Meanwhile, I aim to contribute to both individual and societal well-being through projects examining charitable donations, misinformation, and consumption happiness. Additionally, I am intrigued by how people process numerical information to make decisions.
