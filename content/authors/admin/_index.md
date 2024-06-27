@@ -68,7 +68,7 @@ social:
 highlight_name: true
 ---
 
-With a background in psychology, I have a passion for identifying behavioral inconsistencies in the marketplace and leveraging them to develop insightful research questions. One of my dissertation projects, for instance, examines the variations in consumer acceptance of AI products and services. Another project provides insights into why some consumers are more inclined to negotiate prices than others. I am particularly enthusiastic about using my research to enhance individual and societal well-being. Through additional projects on charitable donations, misinformation, consumption happiness, and investment decisions, I aim to use marketing as a tool to empower consumers, marketers, and policymakers.
+With a background in psychology, I am passionate about identifying behavioral inconsistencies in the marketplace and leveraging these insights to develop impactful research questions. My job market paper investigates the heterogeneity in consumer acceptance of AI products and services, addressing the question: Why do AI products originate in Western countries but diffuse more rapidly in Eastern countries? In another research project, I examine why some consumers are keen to negotiate prices while others dislike doing so. Additionally, I am committed to using my research to enhance both individual and societal well-being. My research also includes studies on charitable donations, misinformation, consumption happiness, and investment decisions.
 
 I am currently on the 2024-2025 job market.
 
