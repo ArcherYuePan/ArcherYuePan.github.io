@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Efficiency Ratios on Marketing Decision-Making"
+title: "The Perceived Causality in Benefit/Cost and Cost/Benefit Ratios"
 authors:
 - admin
 - Jean-Louis Sterckx
