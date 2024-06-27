@@ -26,9 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Individual characteristics in consumer decision-making
   - Technology (AI) adoption; numerical cognition in the digital era
   - Consumer well-being and societal sustainability
+  - Behavioral pricing
     
 # Education to show in About widget
 education:
@@ -68,6 +68,7 @@ social:
 highlight_name: true
 ---
 
-From an early age, my extensive reading of history books ignited a profound interest in psychology. The diverse ways people think and act across different cultures and societies throughout history fascinated me. The stories of heroes and villains further fueled my curiosity about the interplay between individuals and society. Viewing consumption as a lifelong behavior, I recognize it as a crucial lens through which to understand individual differences and the dynamic relationship between people and society.
+With a background in psychology, I have a passion for identifying behavioral inconsistencies in the marketplace and leveraging them to develop insightful research questions. One of my dissertation projects, for instance, examines the variations in consumer acceptance of AI products and services. Another project provides insights into why some consumers are more inclined to negotiate prices than others. I am particularly enthusiastic about using my research to enhance individual and societal well-being. Through additional projects on charitable donations, misinformation, consumption happiness, and investment decisions, I aim to use marketing as a tool to empower consumers, marketers, and policymakers.
 
-My research explores how individual characteristics shape consumer behavrios, including how cultural orientations influence individuals' adoption of artificial intelligence products and services, and how political ideologies shape tendencies in price negotiations. Meanwhile, I aim to contribute to both individual and societal well-being through projects examining charitable donations, misinformation, and consumption happiness. Additionally, I am intrigued by how people process numerical information to make decisions.
+I am currently on the 2024-2025 job market.
+
