@@ -62,7 +62,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Archer Yue Pan CV Website.pdf.pdf
+    link: static/uploads/Archer Yue Pan CV Website.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
