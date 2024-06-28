@@ -68,7 +68,7 @@ social:
 highlight_name: true
 ---
 
-With a background in psychology, I am passionate about identifying behavioral inconsistencies in the marketplace and leveraging these insights to develop impactful research questions. My job market paper investigates the heterogeneity in consumer acceptance of AI products and services, addressing the question: Why do AI products originate in Western countries but diffuse more rapidly in Eastern countries? In another research project, I examine why some consumers are keen to negotiate prices while others dislike doing so. Additionally, I am committed to using my research to enhance both individual and societal well-being. My research also includes studies on charitable donations, misinformation, consumption happiness, and investment decisions.
+With a background in psychology, I am passionate about identifying and studying behavioral inconsistencies in the marketplace. I explore these inconsistencies across various situations and different consumer groups. My job market paper examines the heterogeneity in consumer acceptance of AI products and services, addressing the question: Why are consumers in Eastern countries more willing to adopt AI products compared to those in Western countries? In another research project, I investigate why some consumers are keen to negotiate prices while others avoid it. Additionally, I am committed to research that enhances societal welfare. My ongoing projects include studies on charitable donations, misinformation, consumption happiness, and investment decisions.
 
 I am currently on the 2024-2025 job market.
 
