@@ -28,7 +28,7 @@ bio:
 interests:
   - Technology (AI) adoption; numerical cognition in the digital era
   - Consumer well-being and societal sustainability
-  - Behavioral pricing
+  - Consumer heterogeneity 
     
 # Education to show in About widget
 education:
