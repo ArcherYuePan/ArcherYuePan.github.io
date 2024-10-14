@@ -26,9 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Technology (AI) adoption; numerical cognition in the digital era
-  - Consumer well-being and societal sustainability
-  - Consumer heterogeneity 
+  - Human-technology interaction
+  - Language and psycholinguistics
+  - Consumer values and beliefs 
     
 # Education to show in About widget
 education:
@@ -68,7 +68,11 @@ social:
 highlight_name: true
 ---
 
-With a background in psychology, I am passionate about identifying and studying behavioral inconsistencies in the marketplace. I explore these inconsistencies across various situations and different consumer groups. My job market paper examines the heterogeneity in consumer acceptance of AI products and services, addressing the question: Why are consumers in Eastern countries more willing to adopt AI products compared to those in Western countries? In another research project, I investigate why some consumers are keen to negotiate prices while others avoid it. Additionally, I am committed to research that enhances societal welfare. My ongoing projects include studies on charitable donations, misinformation, consumption happiness, and investment decisions.
+I am a consumer behavior researcher focusing on three research topics: human-technology interaction, language and psycholinguistics, and consumer values and beliefs. As a tech enthusiast, I am particularly interested in understanding the factors driving technology adoption, the influence of technology on daily life, and the implications of technology-related policies. My job market paper, for example, explores cultural differences in consumers' propensity to adopt AI-branded products. Additionally, as a bilingual, I investigate how using a non-native versus native language influences bilinguals' cognitive processes and decision-making, as well as how different framings of marketing metrics affect marketing judgments and decisions. Lastly, driven by a deep interest in how individual values and beliefs shape behavior, my research examines how market ideology impacts consumers' decisions to engage in price negotiations, and proposes a new framework for understanding the influence of consumption on consumer well-being.
+
+Before beginning my doctoral studies in marketing at Cornell University's SC Johnson Graduate School of Management, I worked as a research assistant and interim lab manager at the University of Chicago Booth School of Business. I also completed two years of doctoral training at Northwestern University's School of Communication. I hold a bachelor's degree in psychology from the University of Illinois at Urbana-Champaign and a master's degree in social sciences from the University of Chicago.
+
+Growing up in a family of teachers, I initially believed I would pursue a career in history education before discovering my passion for consumer psychology.
 
 I am currently on the 2024-2025 job market.
 
