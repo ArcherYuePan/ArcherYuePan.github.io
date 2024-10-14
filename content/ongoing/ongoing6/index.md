@@ -1,5 +1,5 @@
 ---
-title: "Adopting Innovation for Social Signaling: How Culture Affects AI Adoption"
+title: "How Culture Affects AI Adoption"
 authors:
 - admin
 - Manoj Thomas
@@ -12,7 +12,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review*"
+publication: "*Job Market Paper*"
 publication_short: ""
 
 abstract: Upcoming

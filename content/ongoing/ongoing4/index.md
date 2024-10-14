@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Using a Non-native Language on Prosocial Decisions"
+title: "The Impact of Using a Non-native Language on Socially Responsible Behaviors"
 authors:
 - Marie Ozanne
 - Xinlian Zhang
