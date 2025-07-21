@@ -74,5 +74,3 @@ Before beginning my doctoral studies in marketing at Cornell University SC Johns
 
 Growing up in a family of teachers, I initially believed I would pursue a career in history education before discovering my passion for consumer psychology.
 
-I am currently on the 2024-2025 job market.
-
