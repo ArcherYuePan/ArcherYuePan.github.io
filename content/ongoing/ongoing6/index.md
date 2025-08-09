@@ -1,5 +1,5 @@
 ---
-title: "How Culture Affects AI Adoption"
+title: "Cultural Differences in Receptivity to AI Branding"
 authors:
 - admin
 - Manoj Thomas
@@ -12,7 +12,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Job Market Paper*"
+publication: "*Under Review*"
 publication_short: ""
 
 abstract: Upcoming
