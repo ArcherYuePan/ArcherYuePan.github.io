@@ -1,5 +1,5 @@
 ---
-title: "Foreign language reduces false memories by increasing memory monitoring"
+title: "Who Negotiates? The Political Psychology of Price Negotiations"
 authors:
 - admin
 - Manoj Thomas
