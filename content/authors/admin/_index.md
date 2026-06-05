@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Behavioral Marketing
       institution: Cornell University
-      year: 2020 - Present
+      year: 2020 - 2025
     - course: Master of Arts in Social Sciences
       institution: The University of Chicago
       year: 2017

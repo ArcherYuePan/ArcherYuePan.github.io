@@ -12,7 +12,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review*"
+publication: "*Invited for revision and resubmission to the Journal of Consumer Research*"
 publication_short: ""
 
 abstract: Upcoming
