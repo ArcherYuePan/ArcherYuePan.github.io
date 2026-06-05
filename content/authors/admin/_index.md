@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Marketing
+role: Assistant Professor of Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
-    url: https://www.johnson.cornell.edu/programs/phd-program/current-students/yp388/
+  - name: Wayne State University
+    url: https://ilitchbusiness.wayne.edu/profile/ib9406
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
